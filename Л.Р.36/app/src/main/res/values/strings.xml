@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LWork35</string>
+    <string name="btnToSecond">Go to the next one</string>
+    <string name="text1">You will read some information about me.</string>
+    <string name="text2">My name is Illia Kindratenko.</string>
+    <string name="btnToThird">Go to the next one</string>
+    <string name="btnToFirst">Return to the first</string>
+    <string name="text3">I have been studying computer science for 4 years.</string>
+    <string name="maintext">My information</string>
+
+</resources>
